@@ -1,2 +1,7 @@
 Texto en otro archivo
+<<<<<<< HEAD
 Esto es un cambio local
+=======
+
+Esto es un cambio en remoto
+>>>>>>> 91fb57d017c27c118ffe679051ac4961d786517d
